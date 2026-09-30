@@ -2,7 +2,7 @@
 
 **Senior iOS Developer** from Prague · 8 years in Swift (and Objective-C when needed) · 18 apps shipped for brands like Heureka, ŠKODA AUTO, Tesco and Patria Finance.
 
-- 🛒 Nearly 5 years as the **iOS guarantor at Heureka Group** — price-comparison apps for CZ & SK built on CLEAN + MVI with a shared **Kotlin Multiplatform** layer
+- 🛒 Nearly 5 years as the **iOS developer & guarantor at Heureka Group** — price-comparison apps for CZ & SK built on CLEAN + MVI with a shared **Kotlin Multiplatform** layer
 - ⚡️ Led the **Swift 6 / strict concurrency** migration and owned iOS **CI/CD** — build time cut from 14 to 3 minutes
 - 🧭 Sole iOS developer on 10 client projects — from requirement analysis to App Store release
 - 🔨 Currently building my own iOS apps (closed beta)
