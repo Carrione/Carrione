@@ -1,4 +1,4 @@
-# Hi, I'm Miroslav 👋
+# Hi, I'm Miroslav (or Mirek) 👋
 
 **Senior iOS Developer** from Prague · 8 years in Swift (and Objective-C when needed) · 18 apps shipped for brands like Heureka, ŠKODA AUTO, Tesco and Patria Finance.
 
