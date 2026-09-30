@@ -15,7 +15,7 @@
 
 ## Stack
 
-**Languages & platforms:** Swift 6 · Swift Concurrency · Objective-C · Kotlin Multiplatform · iOS · watchOS
+**Languages & platforms:** Swift 6 · Swift Concurrency · Objective-C · Kotlin · Kotlin Multiplatform · iOS · watchOS
 
 **UI:** SwiftUI · UIKit · Combine
 
