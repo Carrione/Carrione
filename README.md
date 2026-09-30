@@ -12,7 +12,7 @@
 | Project | What it shows |
 |---|---|
 | [**SportTracker**](https://github.com/Carrione/SportTracker) | Sample app with a scalable architecture — CLEAN layers as separate SPM packages, MVI with coordinators, `@Observable`, Swift Concurrency, SwiftData + Firestore, unit-tested use cases |
-| [**Portfolio**](https://carrione.github.io/Portfolio/) | Selected projects with screenshots, experience and tech stack |
+| [**Portfolio**](https://github.com/Carrione/Portfolio) | Selected projects with screenshots, experience and tech stack |
 
 ## Stack
 
