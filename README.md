@@ -17,9 +17,13 @@
 ## Stack
 
 **Languages & platforms:** Swift 6 · Swift Concurrency · Objective-C · Kotlin Multiplatform · iOS · watchOS
+
 **UI:** SwiftUI · UIKit · Combine
+
 **Architecture:** CLEAN · MVI + FlowController · MVVM + Coordinator · SPM modularisation · Factory DI
+
 **Data:** Apollo/GraphQL · URLSession · SwiftData · CoreData · Ktor
+
 **Tooling:** GitLab CI · Fastlane · XCTest · TestFlight · Firebase · AI code review (Claude Code)
 
 ## Contact
