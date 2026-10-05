@@ -27,4 +27,4 @@
 
 ## Contact
 
-[Portfolio](https://carrione.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/miroslav-t-97759159) · [CV (PDF)](https://carrione.github.io/Portfolio/Miroslav_Tourek_CV.pdf)
+[Portfolio](https://carrione.github.io/Portfolio/en/) · [LinkedIn](https://www.linkedin.com/in/miroslav-t-97759159) · [CV (PDF)](https://carrione.github.io/Portfolio/Miroslav_Tourek_CV.pdf)
